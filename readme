@@ -1,0 +1,7 @@
+# Cara Run Project Jarkom
+
+# Klik menu view diatas kiri lalu pilih terminal, akan terbuka terminal dengan dua tab
+
+# pada tab sebelah kiri, jalankan file server.py dengan cara ketik: python server.py
+
+# pada tab sebelah kanan, jalankan file client dengan cara ketik: python client.py 127.0.0.1 6789 HelloWorld.html
